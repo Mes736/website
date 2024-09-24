@@ -41,7 +41,7 @@ const Footer = () => {
               <Link to="/services">Services</Link>
             </li>
             <li className='text-gray-300 hover:text-white'>
-              <Link to="/contact">Contact</Link>
+              <Link to="#footer">Contact</Link>
             </li>
             <li className='text-gray-300 hover:text-white'>
               <Link to="/product">Products</Link>
@@ -109,7 +109,7 @@ const Footer = () => {
       </div>
       <div className='border-t border-gray-300 mt-8 pt-4 text-center'>
         <p className='text-gray-300'>&copy; 2024 MES Services. All rights reserved.</p>
-        <p className='text-gray-300'>Design and Developed by <link to="https://pcdconsultancyservices.in">PCD Consultancy Services</link></p>
+        <p className='text-gray-300'>Design and Developed by <link href="https://pcdconsultancyservices.in" >PCD Consultancy Services </link></p>
       </div>
     </div>
   );
