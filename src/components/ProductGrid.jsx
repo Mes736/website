@@ -24,7 +24,7 @@ const products = [
   { id: 2, name: 'Automation Products', image: image2, info: 'Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
   { id: 3, name: 'Relay Cards', image: image3, info: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.' },
   { id: 4, name: 'Limit Switches', image: image4, info: 'Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.' },
-  { id: 5, name: 'Process Controllers', image: image5, info: 'In voluptate velit esse cillum dolore eu fugiat nulla pariatur.' },
+  { id: 5, name: 'Pressure Controllers', image: image5, info: 'In voluptate velit esse cillum dolore eu fugiat nulla pariatur.' },
   { id: 6, name: 'Process Controllers', image: image6, info: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.' },
   { id: 7, name: 'AC Drive', image: image7, info: 'Deserunt mollit anim id est laborum.' },
   { id: 8, name: 'PLC Controllers', image: image8, info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.' },
